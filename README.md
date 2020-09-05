@@ -1,6 +1,5 @@
 # PROJECT NAME
-## siStars School Portal 
-### -Four walls of internet and tomorrow inside
+siStars School Portal - Four walls of internet and tomorrow inside!
 
 ## PROJECT DESCRIPTION
 siStar is an online portal where every student can attend the school with the leisure of staying at home.
@@ -39,4 +38,5 @@ flexibility of attendance which would be based on the submission of graded assig
 ![Alt text](screenshot2.png)
 
 
-
+## NOTE -
+Name used is just for the sample. It does not intentionally points to a specific person.
