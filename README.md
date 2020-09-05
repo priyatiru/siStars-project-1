@@ -20,6 +20,6 @@ It contains functions view_course_details, select_all_asgnmts, select_all_videos
 - watch_video to set status of a video of a course as 'YES'(completed)
 - do_assignment to set status of a assignment of a course as 'YES'(completed)
 
-This code has all the functions useful for a student. The program is set such that it looks for assignments whose deadlines are near and the video lecture that needs to be watched before submission. For instance, if an assignment is dependent on the lecture number 5 of a course then it has to watch lecture only after making sure that all the lectures before it (here, lecture 1,2,3 and 4) has been watched. 
+This code has all the functions useful for a student. The program is set such that it looks for assignments whose deadlines are near and the video lecture that needs to be watched before submission. For instance, if an assignment is dependent on the lecture number 5 of a course then it has to watch lecture 5 but only after making sure that all the lectures before it (here, lecture 1,2,3 and 4) has been watched. 
 On Sundays, the codes looks for the assignments whose deadlines have crossed or is to be submitted on the present day and suggests the student to watch the videos required. If there's no such case then the student gets a 'No work day!'
 Each day the student has to choose the number of tasks she/he wants to do. 
