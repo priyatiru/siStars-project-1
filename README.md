@@ -30,11 +30,13 @@ On Sundays, the codes looks for the assignments whose deadlines have crossed or 
 Each day the student has to choose the number of tasks she/he wants to do. 
 
 # Key Highlights 
-1. It ensure about the availability of courses or schooling to every child irrespective of number of children in the family.
+1. It ensures about the availability of courses or schooling to every child irrespective of number of children in the family.
 2. mainly focuses on the education outreach rather than emphasising more the attendance criteria. Students can have the
 flexibility of attendance which would be based on the submission of graded assignments given by respective course instructors.
 
 ![Alt text](screenshot.png)
+
+
 ![Alt text](screenshot2.png)
 
 
