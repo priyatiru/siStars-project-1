@@ -1,5 +1,11 @@
-# siStars School Portal - ## Four walls of internet and tomorrow inside
+# PROJECT NAME
+## siStars School Portal 
+### -Four walls of internet and tomorrow inside
 
+## PROJECT DESCRIPTION
+siStar is an online portal where every student can attend the school with the leisure of staying at home.
+
+# Code description 
 mydb.db has the structure of our database. It includes:
 - a Course table having details of the courses offered (listed 4 courses)
 - Vidoes table for each course offered
@@ -23,3 +29,14 @@ It contains functions view_course_details, select_all_asgnmts, select_all_videos
 This code has all the functions useful for a student. The program is set such that it looks for assignments whose deadlines are near and the video lecture that needs to be watched before submission. For instance, if an assignment is dependent on the lecture number 5 of a course then it has to watch lecture 5 but only after making sure that all the lectures before it (here, lecture 1,2,3 and 4) has been watched. 
 On Sundays, the codes looks for the assignments whose deadlines have crossed or is to be submitted on the present day and suggests the student to watch the videos required. If there's no such case then the student gets a 'No work day!'
 Each day the student has to choose the number of tasks she/he wants to do. 
+
+# Key Highlights 
+1. It ensure about the availability of courses or schooling to every child irrespective of number of children in the family.
+2. mainly focuses on the education outreach rather than emphasising more the attendance criteria. Students can have the
+flexibility of attendance which would be based on the submission of graded assignments given by respective course instructors.
+
+![Alt text](screenshot.png)
+![Alt text](screenshot2.png)
+
+
+
