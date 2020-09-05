@@ -42,3 +42,4 @@ flexibility of attendance which would be based on the submission of graded assig
 
 ## NOTE -
 Name used is just for the sample. It does not intentionally points to a specific person.
+Link - https://docs.google.com/presentation/d/110Q3h5JeNd_yLTO_VOlLHqnLVh2GnaO0XhfdRvh-9h4/edit?usp=sharing
