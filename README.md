@@ -1,4 +1,5 @@
-# siStars-project-1
+# siStars School Portal 
+### Four walls of internet and tomorrow inside
 
 mydb.db has the structure of our database. It includes:
 - a Course table having details of the courses offered (listed 4 courses)
