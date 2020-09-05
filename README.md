@@ -4,6 +4,7 @@ mydb.db has the structure of our database. It includes:
 - a Course table having details of the courses offered (listed 4 courses)
 - Vidoes table for each course offered
 - Assignments table for each course offered
+
 Note: addition of a new course requires modifications on the backend
 
 ## myAdmin.ipynb
